@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -C -i "bin" 15-countthatword
+grep -c -i "bin" 15-countthatword
